@@ -9,8 +9,8 @@
   "author": "Erik Vosseberg",
   "license": "ISC",
   "dependencies": {
-    "chromedriver": "^2.34.0",
-    "nightwatch": "^0.9.19",
-    "nightwatch-html-reporter": "^2.0.4"
+    "chromedriver": "^2.46.0",
+    "nightwatch": "^0.9.21",
+    "nightwatch-html-reporter": "^2.0.6"
   }
 }
